@@ -1,2 +1,2 @@
 # School-Book-Renting-System
-CS003A Final Project
+Fundamentals of Computer Science (C++) Final Project
